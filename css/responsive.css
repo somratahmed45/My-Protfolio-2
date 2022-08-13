@@ -1,0 +1,239 @@
+/* Small devices (landscape phones, less than 768px) */
+
+@media (max-width: 767.98px) {
+    .navbar-toggler-icon {
+        background-color: #fff;
+        border-radius: 5px;
+    }
+    .banner_text {
+        padding-top: 90px;
+    }
+    .banner_text h3 {
+        font-size: 12px;
+        margin-left: 20px;
+    }
+    .banner_text p {
+        font-size: 11px;
+        padding-top: 5px;
+        margin-left: 20px;
+        margin-right: 225px;
+    }
+    .img_section img {
+        height: 270px;
+    }
+    .services {
+        margin-top: 30px;
+    }
+    .services h2 {
+        padding-top: 20px;
+        font-size: 30px;
+    }
+    .services p {
+        font-size: 13px;
+        padding: 0px 60px 0 60px;
+        margin-top: 5px;
+    }
+    .service_item {
+        margin-bottom: 20px;
+        margin-top: 7px;
+        margin-left: 125px;
+        margin-right: 125px;
+    }
+    .self_text h2 {
+        padding-top: 15px;
+        font-size: 30px;
+    }
+    .self_text p {
+        font-size: 14px;
+        padding: 0 10px 0 10px;
+        margin-top: 10px;
+        margin-bottom: -50px;
+    }
+    .self_img img {
+        margin-bottom: -70px;
+        width: 300px;
+        margin-left: 108px;
+        margin-top: 50px;
+    }
+    .side_self_text h3 {
+        padding-top: 110px;
+        font-size: 25px;
+    }
+    .side_self_text p {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .side_self_text .btn {
+        margin-left: 275px;
+        border-radius: 20px;
+        padding: 4px 8px 4px 14px;
+        margin-top: 15px;
+        margin-bottom: -100px;
+    }
+    .footer {
+        height: 453px;
+    }
+    .deatils_logo img {
+        width: 40px;
+        margin-top: 85px;
+    }
+    .deatils_logo a h4 {
+        margin-top: 13px;
+        font-size: 15px;
+    }
+    .deatils_logo p {
+        font-size: 11px;
+    }
+    .deatils_contact h5 {
+        font-size: 15px;
+        margin-top: 2px;
+    }
+    .contact_list li a {
+        font-size: 10px;
+        margin-left: 7px;
+        margin-top: -1px;
+    }
+    .deatils_search {
+        margin-top: -5px;
+    }
+    .deatils_search h6 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .deatils_search .search {
+        width: 350px;
+        height: 37px;
+        padding: 0 0 0 13px;
+        font-size: 15px;
+    }
+    .deatils_search .subnit {
+        margin-top: 10px;
+        font-size: 12px;
+        padding: 5px 14px;
+    }
+    .copuright h5 {
+        font-size: 10px;
+        margin-top: 15px;
+    }
+}
+
+
+/* Medium devices (tablets, less than 992px) */
+
+@media (max-width: 991.98px) {
+    .navbar-toggler-icon {
+        background-color: #fff;
+        border-radius: 5px;
+    }
+    .banner_text {
+        padding-top: 110px;
+    }
+    .banner_text h3 {
+        font-size: 20px;
+    }
+    .banner_text p {
+        font-size: 15px;
+        padding-top: 10px;
+        margin-left: 50px;
+        margin-right: 340px;
+    }
+    .img_section img {
+        height: 405px;
+    }
+    .banner_text {
+        padding-top: 8px;
+    }
+    .services h2 {
+        padding-top: 25px;
+        font-size: 30px;
+    }
+    .services p {
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    .service_item {
+        margin-bottom: 15px;
+        margin-top: 15px;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+    .self_text h2 {
+        padding-top: 25px;
+        font-size: 30px;
+    }
+    .self_text p {
+        font-size: 15px;
+        margin-top: 14px;
+    }
+    .self_img {
+        margin-top: 10px;
+        width: 300px;
+        margin-left: 207px;
+    }
+    .self_img img {
+        margin-bottom: -95px;
+    }
+    .side_self_text h3 {
+        padding-top: 120px;
+        font-size: 30px;
+    }
+    .side_self_text p {
+        font-size: 15px;
+        margin-top: 13px;
+    }
+    .side_self_text .btn {
+        border-radius: 20px;
+        padding: 5px 10px 5px 15px;
+        margin-top: 20px;
+    }
+    .footer {
+        height: 655px;
+    }
+    .deatils_logo img {
+        width: 48px;
+        margin-top: 135px;
+    }
+    .deatils_logo img {
+        width: 48px;
+        margin-top: 135px;
+    }
+    .deatils_logo a h4 {
+        margin-top: 11px;
+        font-size: 14px;
+    }
+    .deatils_logo p {
+        font-size: 12px;
+    }
+    .deatils_contact h5 {
+        font-size: 15px;
+        margin-top: 0px;
+    }
+    .contact_list li a {
+        font-size: 12px;
+        margin-left: 10px;
+        margin-top: 3px;
+    }
+    .deatils_search h6 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .deatils_search .search {
+        width: 400px;
+        height: 35px;
+        font-size: 16px;
+    }
+    .deatils_search .subnit {
+        margin-top: 10px;
+        font-size: 15px;
+        padding: 5px 15px;
+    }
+    .copuright h5 {
+        font-size: 15px;
+        margin-top: 15px;
+    }
+}
+
+
+/*Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {}
